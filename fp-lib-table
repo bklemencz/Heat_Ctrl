@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Heater_Ctrl)(type KiCad)(uri "$(KIPRJMOD)/Heater_Ctrl.pretty")(options "")(descr ""))
+  (lib (name kicad-jst-xh-master)(type KiCad)(uri /home/balazs/Documents/Kicad_Libs/kicad-jst-xh-master)(options "")(descr ""))
+  (lib (name w_conn_mkds)(type KiCad)(uri /home/balazs/Documents/Kicad_Libs/w_conn_mkds.pretty)(options "")(descr ""))
+  (lib (name w_smd_diode)(type KiCad)(uri /home/balazs/Documents/Kicad_Libs/w_smd_diode.pretty)(options "")(descr ""))
+)

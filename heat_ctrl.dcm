@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BluePill_STM32F103C
+D STM32F103C Minimal Dev Board
+K STM32F103 Development Board
+$ENDCMP
+#
+$CMP G3MB-202P
+D 2A 250V SSR Zero Cross
+K 2A 250V SSR
+$ENDCMP
+#
+$CMP LT8920_Mini
+D XY-WB Mini LT8920 2.4GHz Transceiver Module
+K Mini LT8920 2.4GHz Transceiver Module
+$ENDCMP
+#
+$CMP Mini360_DCDC
+D Mini360 Buck DCDC Converter 23V/2A
+K Buck DCDC Converter 23V/2A
+$ENDCMP
+#
+$CMP SRD-05VDC-SL-C
+D 10A/250VAC 5V/70mA SPDT Relay 
+$ENDCMP
+#
+#End Doc Library
