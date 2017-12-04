@@ -1,5 +1,5 @@
-Drill report for X:\Heat_Ctrl\Heat_Ctrl.kicad_pcb
-Created on 12/2/2017 12:12:42 PM
+Drill report for X:/Heat_Ctrl/Gerber/Heater_Ctrl_V10_Panel_2x1.kicad_pcb
+Created on 12/4/2017 4:21:04 PM
 
 Copper Layer Stackup:
     =============================================================
@@ -7,7 +7,7 @@ Copper Layer Stackup:
     L2 :  B.Cu                      back
 
 
-Drill file 'X:Heat_Ctrl.drl' contains
+Drill file 'X:Heater_Ctrl_V10_Panel_2x1.drl' contains
     plated through holes:
     =============================================================
     T1  0.40mm  0.016"  (36 holes)
